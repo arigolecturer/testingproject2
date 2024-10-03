@@ -20,7 +20,7 @@ export default function Home() {
       <br />
       <button onClick={() => {
         penjumlahanBilangan()
-      }} >Tambah 1</button>
+      }} >Add 1</button>
     </div>
   );
 }
